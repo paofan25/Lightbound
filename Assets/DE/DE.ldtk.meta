@@ -24,7 +24,7 @@ ScriptedImporter:
     _asset: {fileID: 11400000, guid: a365aa14a2f9c5847975c627a9858340, type: 2}
   _entities:
   - _key: Player
-    _asset: {fileID: 5003489698473865315, guid: e4e9d511252ae6146a324ae06f2a991e, type: 3}
+    _asset: {instanceID: 0}
   - _key: Item
     _asset: {instanceID: 0}
   - _key: Door

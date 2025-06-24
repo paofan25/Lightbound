@@ -23,9 +23,7 @@
         {
             "_key": "Player",
             "_asset": {
-                "fileID": 5003489698473865315,
-                "guid": "e4e9d511252ae6146a324ae06f2a991e",
-                "type": 3
+                "instanceID": 0
             }
         },
         {

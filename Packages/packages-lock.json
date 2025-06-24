@@ -179,6 +179,13 @@
       "dependencies": {},
       "url": "https://packages.unity.cn"
     },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.2.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.cn"
+    },
     "com.unity.render-pipelines.core": {
       "version": "12.1.15",
       "depth": 1,
@@ -266,6 +273,43 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.cn"
+    },
+    "com.xfkj.xfabmanager": {
+      "version": "https://gitee.com/xianfengkeji/xfabmanager.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.1"
+      },
+      "hash": "249c1f3a7f5fa494b6dd25fd6cec3e027e341248"
+    },
+    "com.xfkj.xfgameframework": {
+      "version": "https://gitee.com/xianfengkeji/XFGameFramework.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "91fd227df898ccc09d796ea164be5c5fb31af53c"
+    },
+    "com.xfkj.xfgameframework.equipmentsystem": {
+      "version": "https://gitee.com/xianfengkeji/xfgame-framework.equipment-system.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "3122c3dc2e8f2cecaa49a96090383cca465fab88"
+    },
+    "com.xfkj.xfgameframework.excelsystem": {
+      "version": "https://gitee.com/xianfengkeji/xfgame-framework.excel-system.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "725f94f23327de190111573870146af66e9484b6"
+    },
+    "com.xfkj.xfgameframework.skillsystem": {
+      "version": "https://gitee.com/xianfengkeji/xfgame-framework.skill-system.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "c10d2d9eebeedc7cc76f14bf6470187f965cf5fa"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
