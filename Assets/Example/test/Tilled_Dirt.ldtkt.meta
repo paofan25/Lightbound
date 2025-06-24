@@ -1,0 +1,1094 @@
+fileFormatVersion: 2
+guid: d1910864d0e1e9b4c9249261b9811a27
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _overrideTexture: {instanceID: 0}
+  _sprites:
+  - name: Tilled_Dirt_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 96
+      width: 16
+      height: 16
+    spriteID: b98daa3473803be46a1a43a4e152fa13
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 03cd21a9e4e419b42a5fc690efde68dc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 96
+      width: 16
+      height: 16
+    spriteID: e5ce83e856ecb2b4c81a0d6c9042e01c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 4074452878eae074f9b15baec063fab4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 96
+      width: 16
+      height: 16
+    spriteID: bc36a5d2022216e44b07854bc0d707ac
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 7fd8b4857f9e0664aa6bf4a3b9159d9c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 9ca444f468e0980429221e26d251ede2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 96
+      width: 16
+      height: 16
+    spriteID: edaff02ca000cb64b94168ba05873788
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 96
+      width: 16
+      height: 16
+    spriteID: d82a77ffc0ad1d94d92d50e75f855e91
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 1a94fd4025d1c9c4f90d20c1418cc1c2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 96
+      width: 16
+      height: 16
+    spriteID: d15c4aa911a349d4383d15faadc2376e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 80
+      width: 16
+      height: 16
+    spriteID: c09a6b2f23a55c74a9540783a39e7890
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 5403811e19e4f964da91a0882daabc7c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 309d3d9bfb810434caa24c46d015aa07
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 1922ab2ba93287342a7e640746fa90f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 8f65cd5ae72981243811be20784c577a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 57742e0759b5107418deff91558f9e26
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 27ee11ea95bd7d44ca77740bf97fc3fd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 6518a040dd176c74a870fffc263713b8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 80
+      width: 16
+      height: 16
+    spriteID: d325bba74bba67945bf18ea085f08c19
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 9810a1aeeb14e0d42bb4a7cc0f57c4aa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 80
+      width: 16
+      height: 16
+    spriteID: b028498545d3a204c8c37b6d7a1a7b23
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 0aa4f784f761cdc49b73ce5cdf28b311
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 574ea40b2eb42c94ead5287521dc79ce
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 64
+      width: 16
+      height: 16
+    spriteID: f0afdbb4d0dcfa14f9044a6c82f4fe29
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 40152143d16f708478f80a7017cf8031
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 28c5ba00169de6f439c726af2156d4b4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 71aca774f0aadbf4a811bfb5202793b9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 43bc9bd27806f1c46a3e7240c9832f86
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 64
+      width: 16
+      height: 16
+    spriteID: a36affa53ef08d344b7fcd93142eb88a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 0ca0fdacddf5fec4986249879da35dd9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 64
+      width: 16
+      height: 16
+    spriteID: b6ee11292816b4e4e97e961d8aaf4ae8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 64
+      width: 16
+      height: 16
+    spriteID: a82cfb8ddaa20b841900d9d69970accb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 48
+      width: 16
+      height: 16
+    spriteID: a76ac9737f2d0fa4cb4e4f3ac725e308
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 9bff28fdfe479904a835e86a9dbfe3d9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 48
+      width: 16
+      height: 16
+    spriteID: a99cc8bd721db3640b060f945ee83285
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 3cb90be40f515d74c8c533f2db84ce3e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 36aed310bd30abb4bbdf24b74c20e652
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 48
+      width: 16
+      height: 16
+    spriteID: a76ee5eb70c0d8e4097432cad8c99018
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 48
+      width: 16
+      height: 16
+    spriteID: e5391a517d47448458bcfcd1a5d8eb46
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 936648c984300884ab720aeafedcac10
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 7d7fd1f5d967dcd43b4a76d6344f1f61
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 16c1fcaa92404e945b61225ab77c311a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 48
+      width: 16
+      height: 16
+    spriteID: c9321200b51e75142914b7224736967b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 92225033f93de324fa08e381e529510f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 6f06abbca28747d4481a9f4344fc5cd3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 52b28ce0ccfd6fb4e8893cd5575fd116
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 56c5b415ae4585d459f6d94f165a20af
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 800dd8e0812ce1f409741e2216e7e28b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 32
+      width: 16
+      height: 16
+    spriteID: dd471ffa4e3b2114cbf74908591f10e5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 32
+      width: 16
+      height: 16
+    spriteID: dfdfde276fb3c1a44bd81aabd9aa24b6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 465a64703f84cc7439193ef8f7c8a06a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 32
+      width: 16
+      height: 16
+    spriteID: fd54ce844d0fd3b4d80bf0715d8b20f2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 0f7acef086fbbf2408821177ee6bc3b5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 36cdfbcf55d88c148ad68221e9d872e0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 16
+      width: 16
+      height: 16
+    spriteID: e2ed280ebb7e5c64f99240e09e0c13ed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 4e4d9b3df7be8114383af2edb8c76113
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 16
+      width: 16
+      height: 16
+    spriteID: e0c25744a6ecfc44d8d6b89744c8630c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 0deba47a3a6c93c47944daeec342ac57
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 16
+      width: 16
+      height: 16
+    spriteID: c8f98027e4557fc4b99a5020dd31fb4c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 16
+      width: 16
+      height: 16
+    spriteID: be59b7977eab32349a05ea6e1cdad693
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 1ab7614935bc1a04996d5e5ec773f866
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 16
+      width: 16
+      height: 16
+    spriteID: e35d9dabdeadc3347ade2df98ab92e82
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 711c5334713aa3141b9f1d15f29b04bc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 9f60d2c8267b84e4da405c77c4c35ec4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 16
+      width: 16
+      height: 16
+    spriteID: c9425f1032f9631498f32d8f450d9ca5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 87f89bbb4f8167f4fb285e7d092d0d20
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 8b9bae5deecbf1d44b62b571571d0ac2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 47de23d375c926e4a9be37d3a9f98f2f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 1848861f244cfb44488a685039b7fea9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 16
+    spriteID: e42d993bd4f196549863f62b08411fc9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 7f730a9ee1bdf1a4293a8694e3c8be4e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 72d9ff2f1b0b0ae42806655f2de18243
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 0
+      width: 16
+      height: 16
+    spriteID: a84a6d76a20182d4895b2ea084b480df
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 16
+      height: 16
+    spriteID: e57f8dd0f9b38464aa12e2687f04392f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 0
+      width: 16
+      height: 16
+    spriteID: f46570e5590214641a2e614ca7638556
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Tilled_Dirt_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 34971f7603646f8488e86c1cb116d560
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
+  _artifacts: {instanceID: 0}

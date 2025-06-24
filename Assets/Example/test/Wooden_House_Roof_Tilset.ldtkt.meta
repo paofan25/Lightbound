@@ -1,0 +1,506 @@
+fileFormatVersion: 2
+guid: 8767df93d03ec394a9223738191f16b8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _overrideTexture: {instanceID: 0}
+  _sprites:
+  - name: Wooden_House_Roof_Tilset_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 5d35710300c7ae9459d8f01c4a538ea1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 4057f8cc481c31448804698aa4fbe11e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 64
+      width: 16
+      height: 16
+    spriteID: ca9cd3f8c47808144abd7f807353be27
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 42f1b94104a617c4d97d25acfed6100d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 64
+      width: 16
+      height: 16
+    spriteID: c2f09dfb6c1a72f47a242674b4f5ec04
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 60fdedd04073f6847a1b7f27121135ff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 0b9067f2fc3942e45a3d1575982f10c7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 80e78bfb6ab862b4492820f05baabfa4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 48
+      width: 16
+      height: 16
+    spriteID: c6d9dabc796b30e41907c2a28a3c0af9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 48
+      width: 16
+      height: 16
+    spriteID: b7010c1fe0b42774da9921abbaf2394c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 48
+      width: 16
+      height: 16
+    spriteID: cea80cfb0b455fc45a1bbf2ff0d374d9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 48
+      width: 16
+      height: 16
+    spriteID: a2395e8f1ccbdb0498bdd242782130ff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 81a4b7922c2b84a46b88fca921411341
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 48
+      width: 16
+      height: 16
+    spriteID: e1dd2e91df535e04fa969a1ba0281a6a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 32
+      width: 16
+      height: 16
+    spriteID: f6191156ac193d2478a132dcbac336ca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 2b2de4febc4e5714f9676b88dad92235
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 9c5030fd6f9818c4cb5f725e0714950a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 32
+      width: 16
+      height: 16
+    spriteID: f26c3ff601c0c044ea488c9473349534
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 16981df34f88bd043810db92235355fc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 32
+      width: 16
+      height: 16
+    spriteID: def34e3533605104ab0ecd4402be723f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 32
+      width: 16
+      height: 16
+    spriteID: bc42ed868dd6b2a4688522030eac08d3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 502e37a8abfe31d498b857a0a2d8158e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 16
+      width: 16
+      height: 16
+    spriteID: b25502b3e0cbb224eba4c924a3e7504f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 16
+      width: 16
+      height: 16
+    spriteID: d0a09b24a16ec2b44b782f9878bded6b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 430b0edbbcf6f6644a735032e3c6bf5b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 5e6c9c7beacde894aa1d305c69c24069
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 861acd29ed0388647856ebf19e930699
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 4fe13e6229821ad4baf783a63c252cef
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 3eedb2cce8e18bf479a74c39c5c22431
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 61311236d445de5459d87d45b7f99b95
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 16
+    spriteID: f57fa3fd682fd804bb1f89b717fd6450
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 8ec1831634b23f847a259d6eb8ebecb3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 16
+    spriteID: cdcabf77b1217254bb1733068f870d61
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 380d510b8a678cc46ae296d23a4a04c7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Roof_Tilset_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 16
+      height: 16
+    spriteID: e7018fb3a12a2d542bb1aaaceed5da60
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
+  _artifacts: {instanceID: 0}

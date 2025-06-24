@@ -1,0 +1,33 @@
+{
+  "Rects": null,
+  "Def": {
+    "__cHei": 4,
+    "__cWid": 4,
+    "cachedPixelData": {
+      "opaqueTiles": "0000000000000000",
+      "averageColors": "4b966b867b866b864b966b867b866b864b975b967b865b964b975b967b865b96"
+    },
+    "customData": [
+
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+
+    ],
+    "identifier": "Fences",
+    "padding": 0,
+    "pxHei": 64,
+    "pxWid": 64,
+    "relPath": "src_png/Fences.png",
+    "savedSelections": [
+
+    ],
+    "spacing": 0,
+    "tags": [
+
+    ],
+    "tagsSourceEnumUid": null,
+    "tileGridSize": 16,
+    "uid": 12
+  }
+}

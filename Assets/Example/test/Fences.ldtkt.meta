@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: a80b0255cdc13414f87a3e1416e501a3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _overrideTexture: {instanceID: 0}
+  _sprites:
+  - name: Fences_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 3d7915a04651408499b5b126c6864af1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Fences_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 48
+      width: 16
+      height: 16
+    spriteID: db389fa508dd6954f8e2cc1b8d8d79be
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Fences_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 841490b5627f07e4885f772f017732d4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Fences_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 48
+      width: 16
+      height: 16
+    spriteID: d12dfb16c6e520b40bcd0b4dbe211210
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Fences_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 32
+      width: 16
+      height: 16
+    spriteID: cf4746ab92d5fd649ba4736a35f08b4a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Fences_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 51492a9f1bb2fc947921518e6ff7f7fa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Fences_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 638988e6a683acb4eac2d24a454c3492
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Fences_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 7ae5c16b2f25f5e4a95283bc6f2da26e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Fences_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 74e6728f5b6f5c84c92df448e31b176c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Fences_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 1856354e946aa114abbccd345290aec8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Fences_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 8abea9f221bae384c9f4aacdf3612c57
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Fences_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 5f446d8a362aff1448b75fa2084b6cc2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Fences_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 9fb4456104fd26f4ab5e1d52d38c4bdf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Fences_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 1a03d62a051418345b0bf4d9bc8137e3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Fences_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 90886a3acfbc87f4bba6b45dfc65f40c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Fences_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 943af25c99958e241996e8291eb857b5
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
+  _artifacts: {instanceID: 0}

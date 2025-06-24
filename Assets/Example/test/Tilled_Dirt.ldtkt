@@ -1,0 +1,33 @@
+{
+  "Rects": null,
+  "Def": {
+    "__cHei": 7,
+    "__cWid": 11,
+    "cachedPixelData": {
+      "opaqueTiles": "00000000000010000000000000000000000000000000000000000001110000000011100000000",
+      "averageColors": "1dc96ec91dc92dc99dc9cecaceca9dc9becaeeca00006ec9feca6ec99dc9ceca9eca9ecacecaeecaeeca00001dc96ec91dc92dc9ceca9eca9ecacecaeecaeecaeeca2dc99dc92dc93dc99dc9cecaceca9dc9becaeecaeeca1edb0db90edb1db8becaeecaeecabecadeca00000000fecafecafeca9dc99dc96dc96dc96dc96dc96dc90000fecafecafeca9dc99dc96dc96dc900006dc96dc90000"
+    },
+    "customData": [
+
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+
+    ],
+    "identifier": "Tilled_Dirt",
+    "padding": 0,
+    "pxHei": 112,
+    "pxWid": 176,
+    "relPath": "src_png/Tilled_Dirt.png",
+    "savedSelections": [
+
+    ],
+    "spacing": 0,
+    "tags": [
+
+    ],
+    "tagsSourceEnumUid": null,
+    "tileGridSize": 16,
+    "uid": 7
+  }
+}

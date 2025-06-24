@@ -1,0 +1,108 @@
+{
+    "PixelsPerUnit": 16,
+    "CustomLevelPrefab": {
+        "instanceID": 0
+    },
+    "IntGridValueColorsVisible": false,
+    "UseCompositeCollider": true,
+    "GeometryType": 0,
+    "CreateBackgroundColor": true,
+    "CreateLevelBoundsTrigger": false,
+    "UseParallax": true,
+    "IntGridValues": [
+        {
+            "_key": "Collisions_1",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "5d7a5c285ef1e52419ebbbd240f30b19",
+                "type": 2
+            }
+        }
+    ],
+    "Entities": [
+        {
+            "_key": "PlayerStart",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "SpotLight",
+            "_asset": {
+                "fileID": 3858083983717089928,
+                "guid": "cf509880434299646b1a8a47597dfda3",
+                "type": 3
+            }
+        },
+        {
+            "_key": "Enemy",
+            "_asset": {
+                "fileID": 260514742337573682,
+                "guid": "ccf6a8c02d2ae464580f054e3d40c918",
+                "type": 3
+            }
+        },
+        {
+            "_key": "Chest",
+            "_asset": {
+                "fileID": 6762655429627936706,
+                "guid": "c58144cdf995e9e46b140b5da574c4e3",
+                "type": 3
+            }
+        },
+        {
+            "_key": "Button",
+            "_asset": {
+                "fileID": 635458805061601146,
+                "guid": "516d45bc040f0c744add40de1846bacc",
+                "type": 3
+            }
+        },
+        {
+            "_key": "Door",
+            "_asset": {
+                "fileID": 1434866418027457558,
+                "guid": "0ebc87584e7090842886022936e1f7e4",
+                "type": 3
+            }
+        },
+        {
+            "_key": "TriggerArea",
+            "_asset": {
+                "fileID": 3858083983717089928,
+                "guid": "e89fc55e4bf28384bb4d2602d947b8e3",
+                "type": 3
+            }
+        },
+        {
+            "_key": "Repeater",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "Teleporter",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "MessagePopUp",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "Exit",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "Item",
+            "_asset": {
+                "instanceID": 0
+            }
+        }
+    ]
+}

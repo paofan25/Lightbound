@@ -1,0 +1,33 @@
+{
+  "Rects": null,
+  "Def": {
+    "__cHei": 4,
+    "__cWid": 1,
+    "cachedPixelData": {
+      "opaqueTiles": "0000",
+      "averageColors": "5976e9667966b966"
+    },
+    "customData": [
+
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+
+    ],
+    "identifier": "Doors",
+    "padding": 0,
+    "pxHei": 64,
+    "pxWid": 16,
+    "relPath": "src_png/Doors.png",
+    "savedSelections": [
+
+    ],
+    "spacing": 0,
+    "tags": [
+
+    ],
+    "tagsSourceEnumUid": null,
+    "tileGridSize": 16,
+    "uid": 11
+  }
+}

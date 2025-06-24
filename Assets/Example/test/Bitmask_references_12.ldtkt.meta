@@ -1,0 +1,1094 @@
+fileFormatVersion: 2
+guid: 9fe493be913e6144ab8b7200f98e3d8a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _overrideTexture: {instanceID: 0}
+  _sprites:
+  - name: Bitmask_references_12_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 1d464bf065075234c8436ded0ef9afc5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 46983c23e32c9ec41ba2420d75cfb231
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 833438a06ffe1b44eb815e7a6c3d6703
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 96
+      width: 16
+      height: 16
+    spriteID: fd3d0da5e68c756408e15518aca4f082
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 93abd4c2c74317d498e04478e1014aab
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 4e501ea5724db7e4fbe349e97d285420
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 3d041583d52c7f74aba627534dd85f0f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 45b0b70fc9248bc49ac4a08ae29603e6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 0baf2bcdad6ffa44a946379cb5526d26
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 96
+      width: 16
+      height: 16
+    spriteID: a722b849e52c65744a3179ea3297b58d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 47c04be6649fb114a8191508b6d9ac01
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 07bf97e45fc622d4cad733df01b8c9c8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 047716d5ba285d44bb17aa73a4770236
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 80
+      width: 16
+      height: 16
+    spriteID: d69c28fdf5ae0b645937d43114dd4256
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 80
+      width: 16
+      height: 16
+    spriteID: f04dce774d887294e9fa008a9da28aa1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 223ff5543fc319f448069972457b8ff5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 5c9de899fa05fd94d80b76972ea2f626
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 80
+      width: 16
+      height: 16
+    spriteID: a4732c1b67f429f4ea4216151092da01
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 5d6b7c2edf2e3064e85faaa510099c16
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 80
+      width: 16
+      height: 16
+    spriteID: e45b07094995e9c45865dd60fe25f8aa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 5b400929005e97d459b6d5851ed6ee33
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 80
+      width: 16
+      height: 16
+    spriteID: d7268a6d66bbea64fbc7274b3af0df5d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 9b607f170bdf6d14298487464d40865d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 64
+      width: 16
+      height: 16
+    spriteID: dc55c1c8ecfe07c4fb52e9563b9f2d96
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 64
+      width: 16
+      height: 16
+    spriteID: afbec93f8008eee46b48cd12ea26ac0f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 2c688a1ff5251ec4dafc4328c269f325
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 2f2dc59e333921549ac10e4f904b52f3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 64
+      width: 16
+      height: 16
+    spriteID: a982c0f8cf8f75e45b0b296c285fa84a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 4a8fa8c7a069986409d8d4cb22609ad1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 64
+      width: 16
+      height: 16
+    spriteID: d2b125330ba09124db0a5690d37927e6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 64
+      width: 16
+      height: 16
+    spriteID: e8c2d5755ebf78049bcc2067017f1486
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 12c80459271516d4d8fa84550ec83886
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 4a582f55734a2fc4aa85677b24709ab3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 48
+      width: 16
+      height: 16
+    spriteID: f7ebc8a995525c149abb102f461b7cf8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 48
+      width: 16
+      height: 16
+    spriteID: a85d39e7d0ce6124491c1bcd6fe6db69
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 4cbf4ea0b9d97a842a5a485ed919cf1c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 48
+      width: 16
+      height: 16
+    spriteID: f55f5e895b26ad1489a8d9f03d26a41d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 498180b65b01c294fb53fa458b7b1fb5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 48
+      width: 16
+      height: 16
+    spriteID: b22332898b6571b41bcc91fc07a39db7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 48
+      width: 16
+      height: 16
+    spriteID: aecba49cbdc335549a2e65dd53e988a2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 3ff619ec22c202a4a8d0eb60aae0c2be
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 48
+      width: 16
+      height: 16
+    spriteID: f80972432d340d344bbd735260840ee1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 993b21bf9fc3d6b49bfe602c4ddb5dc9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 578205d7020fbef46a46101a0c1bf05e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 621f25c6bd9f481409d0e19f001e8f52
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 651603d1e5e0d6649bda88413bdc6e25
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 846ce4daeb3f59c44947c4582caadb19
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 879cbdfab0b64e541906ebba3f591ef5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 3e592a50c114eae42ae3ef8ca7369274
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 32
+      width: 16
+      height: 16
+    spriteID: cdfcf3797d6a55348a64fa680a8b3f9a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 219be6e218eb36f458185c128e216fef
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 7f1562308543aa84485db43b098e3155
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 551c745a02812a040ba66f659bd6fecd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 051ee7e084c61574a9e6c80bbccf69ac
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 347639b7be86a29499317d0db93f5968
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 561afa42419731f49b2bda57cffff365
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 3047ff6d789282f4e97f0faa8f5d23f6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 16
+      width: 16
+      height: 16
+    spriteID: a809b4b66cd61634eb920c5a52e57def
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 16
+      width: 16
+      height: 16
+    spriteID: e3fe9cc7dd0f7f74a9e872fa12a474e9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 16
+      width: 16
+      height: 16
+    spriteID: a27864b023419d647872cfd3f1fa4a8c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 48792c40c0b71c147b98dee825981620
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 435006aa6f0487548936f009a3bef9b4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 12c50e98e34dca64ea9ddef7f05ffb65
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 5068cbb05d032d347b4e14e64733fc70
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 16
+      width: 16
+      height: 16
+    spriteID: c7a5e7c94f26dad4c85883a808360def
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 07fa7c9eb53afbf4f9f69f88d099e6ff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 341a5d31c381713428f17e0bca269467
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 4bc3865c5db408a44ad35fd94f580607
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 16
+    spriteID: f3163edc27c15524983be027c91b3260
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 16
+    spriteID: cb80691d6cb57f84f9de6a664b63541e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 2f26fca4b27f9294db3d636527b82de0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 342719ba7fc97a343ab6ad05191c075f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 16
+      height: 16
+    spriteID: bd65dc1a5430f9449ad606d219e4fcf6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 0
+      width: 16
+      height: 16
+    spriteID: d0debd24343810c49b3aefbf9a94bac8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 18d8503da4121e146ad97dd04f49eaea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 0
+      width: 16
+      height: 16
+    spriteID: fac6fa86547981b4abc2ba3f3b072b3b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bitmask_references_12_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 0
+      width: 16
+      height: 16
+    spriteID: bbb9cc975fd10f049a2b32bb03f3dfc9
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
+  _artifacts: {instanceID: 0}

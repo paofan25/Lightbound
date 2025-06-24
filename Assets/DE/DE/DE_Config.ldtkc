@@ -1,0 +1,92 @@
+{
+    "PixelsPerUnit": 16,
+    "CustomLevelPrefab": {
+        "instanceID": 0
+    },
+    "IntGridValueColorsVisible": false,
+    "UseCompositeCollider": true,
+    "GeometryType": 0,
+    "CreateBackgroundColor": true,
+    "CreateLevelBoundsTrigger": false,
+    "UseParallax": true,
+    "IntGridValues": [
+        {
+            "_key": "Collisions_1",
+            "_asset": {
+                "fileID": 11400000,
+                "guid": "a365aa14a2f9c5847975c627a9858340",
+                "type": 2
+            }
+        }
+    ],
+    "Entities": [
+        {
+            "_key": "Player",
+            "_asset": {
+                "fileID": 5003489698473865315,
+                "guid": "e4e9d511252ae6146a324ae06f2a991e",
+                "type": 3
+            }
+        },
+        {
+            "_key": "Item",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "Door",
+            "_asset": {
+                "fileID": 1434866418027457558,
+                "guid": "0ebc87584e7090842886022936e1f7e4",
+                "type": 3
+            }
+        },
+        {
+            "_key": "Button",
+            "_asset": {
+                "fileID": 6497411856554187040,
+                "guid": "7c67339a72ac86d4798351cfcdaaccb5",
+                "type": 3
+            }
+        },
+        {
+            "_key": "BlueButton",
+            "_asset": {
+                "fileID": 6497411856554187040,
+                "guid": "7c67339a72ac86d4798351cfcdaaccb5",
+                "type": 3
+            }
+        },
+        {
+            "_key": "GreenButton",
+            "_asset": {
+                "fileID": 6497411856554187040,
+                "guid": "7c67339a72ac86d4798351cfcdaaccb5",
+                "type": 3
+            }
+        },
+        {
+            "_key": "SecretWall",
+            "_asset": {
+                "instanceID": 0
+            }
+        },
+        {
+            "_key": "Exit",
+            "_asset": {
+                "fileID": 493054914448606368,
+                "guid": "a665bb5d46728db44b367aeb56b8ea70",
+                "type": 3
+            }
+        },
+        {
+            "_key": "Enemy",
+            "_asset": {
+                "fileID": 8440135926126942672,
+                "guid": "ace2ce55158cfe54d84d45fd72a5bf10",
+                "type": 3
+            }
+        }
+    ]
+}

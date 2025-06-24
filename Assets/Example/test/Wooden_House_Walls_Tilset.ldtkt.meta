@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 8d9e7b2c453f6234c9debc5568333f6a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _overrideTexture: {instanceID: 0}
+  _sprites:
+  - name: Wooden_House_Walls_Tilset_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 32
+      width: 16
+      height: 16
+    spriteID: b0cafdf77690b1241a54c13ebf3576be
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Walls_Tilset_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 32
+      width: 16
+      height: 16
+    spriteID: b368439e4481574499f7c4d65a5886c3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Walls_Tilset_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 32
+      width: 16
+      height: 16
+    spriteID: adb2389eb61215341a962c8504e4ed7f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Walls_Tilset_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 6056b77ef4c7583488711ef6eedaab88
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Walls_Tilset_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 95fde50312e8a45438fc832b8e327e1d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Walls_Tilset_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 18da4b91c7364c2419216d3634328dc6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Walls_Tilset_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 213bea2fdfabe0f40ac9044d6c057b3f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Walls_Tilset_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 942ffa58d03f0f64f99231e8360e4a74
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Walls_Tilset_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 16
+      width: 16
+      height: 16
+    spriteID: a6821262ef88d1542a71cee6259149e3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Walls_Tilset_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 16
+      width: 16
+      height: 16
+    spriteID: bef0a022d9f06c54195e574ca1f0a893
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Walls_Tilset_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 16
+    spriteID: eee0bbb103a208c4fa76e8c88f0ff12c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Walls_Tilset_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 16
+    spriteID: cbf1dca8f2e04b44dbd4c787830ff673
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Walls_Tilset_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 16
+    spriteID: a25bff7b2b8da9e4cb1572607435a3e4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Walls_Tilset_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 6dae2835d0ed7c343811bafc7d5fefd3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Wooden_House_Walls_Tilset_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 952b4ea0edd092c46be03ebec55229e6
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
+  _artifacts: {instanceID: 0}
