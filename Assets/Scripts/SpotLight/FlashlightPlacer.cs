@@ -10,14 +10,20 @@ public class FlashlightPlacer : MonoBehaviour
     private GameObject currentFlashlight;   // 当前正在放置的手电筒（可多个）
     private bool isPlaced = false;
 
+    public int maxPlaceCount = 3; // 最大允许放置次数（由电池决定）
+    private int currentPlaceCount = 0; // 当前已放次数
+    
     private List<Vector2> availableDirections = new List<Vector2>();
     private int currentDirectionIndex = 0;
-
+    public bool canPlace = true;
     public float moveThreshold = 0.05f;
     void Update(){
         Vector2 mouseWorldPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        
-        if (!isPlaced) {
+        // RaycastHit2D miao = Physics2D.Raycast(mouseWorldPos, Vector2.zero);
+        // if (miao.collider != null && miao.collider.CompareTag("Player")) {
+        //     Debug.Log("碰到了");
+        // }
+        if (!isPlaced&& canPlace) {
             if (currentFlashlight == null) {
                 currentFlashlight = Instantiate(flashlightPrefab, mouseWorldPos, Quaternion.identity);
                 Debug.Log("手电筒生成");
@@ -36,7 +42,7 @@ public class FlashlightPlacer : MonoBehaviour
             if (Vector2.Distance(oldPos, mouseWorldPos) > moveThreshold) {
                 availableDirections.Clear();
                 currentDirectionIndex = 0;
-                Debug.Log("鼠标移动超过阈值，已重置可用方向列表");
+                // Debug.Log("鼠标移动超过阈值，已重置可用方向列表");
             }
             // ScanAvailableDirections();
             if (Input.GetKeyDown(KeyCode.F)) {
@@ -54,17 +60,49 @@ public class FlashlightPlacer : MonoBehaviour
             }
 
             if (Input.GetMouseButtonDown(0)) {
-                isPlaced = true;
-                Debug.Log("手电筒已放置");
+                if (currentPlaceCount >= maxPlaceCount) {
+                    Debug.Log("⚠️ 放置次数已用完，无法放置更多手电筒");
+                    return;
+                }
+                RaycastHit2D hit = Physics2D.Raycast(mouseWorldPos, Vector2.zero);
+                if (hit.collider != null && hit.collider.CompareTag("Player")) {
+                    Debug.Log("👆 点击了人物");
 
-                currentFlashlight = null;
-                availableDirections.Clear();
-                currentDirectionIndex = 0;
+                    if (currentFlashlight != null) {
+                        GameObject player = hit.collider.gameObject;
+                        currentFlashlight.transform.SetParent(player.transform);
+                        currentFlashlight.transform.localPosition = Vector3.zero;
+                        currentFlashlight.transform.rotation = player.transform.rotation;
+                        Debug.Log("🔦 手电筒已附加到人物身上");
+                        currentPlaceCount++;
+                        Debug.Log($"✅ 手电筒已放置（{currentPlaceCount}/{maxPlaceCount}）");
+                        isPlaced = true;
+                        currentFlashlight = null;
+                        availableDirections.Clear();
+                        currentDirectionIndex = 0;
+                    }
+                }
+                else {
+                    // 正常放置在地面上
+                    isPlaced = true;
+                    currentPlaceCount++;
+                    Debug.Log($"✅ 手电筒已放置（{currentPlaceCount}/{maxPlaceCount}）");
+
+                    // currentFlashlight.GetComponent<Flashlight>().StartLifetimeCountdown();
+
+                    currentFlashlight = null;
+                    availableDirections.Clear();
+                    currentDirectionIndex = 0;
+                }
             }
         }
 
         // R键：放弃当前手电筒，重新生成一个新的并拖动
         if (Input.GetKeyDown(KeyCode.R)) {
+            if (currentPlaceCount >= maxPlaceCount) {
+                Debug.Log("⚠️ 已达到放置上限，无法重新放置手电筒");
+                return;
+            }
             if (currentFlashlight != null) {
                 Destroy(currentFlashlight); // 销毁旧的
                 Debug.Log("当前手电筒已销毁");
@@ -144,6 +182,19 @@ public class FlashlightPlacer : MonoBehaviour
         }
     }
 
+    public void AddBattery(int count){
+        maxPlaceCount += count;
+        Debug.Log($"🔋 电池增加，当前最多可放置次数：{maxPlaceCount}");
+    }
+    public void PickUpFlashlight(GameObject picked){
+        currentFlashlight = picked;
+        currentFlashlight.SetActive(true);
+        isPlaced = false;
+        availableDirections.Clear();
+        currentDirectionIndex = 0;
+
+        Debug.Log("✅ 手电筒已进入重新放置状态");
+    }
 
     /// <summary>
     /// 将手电筒旋转至当前方向，并输出方向名称（上/下/左/右）

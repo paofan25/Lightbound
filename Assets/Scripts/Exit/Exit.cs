@@ -9,6 +9,7 @@ public class Exit : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D other){
         if (other.tag == "Player") {
             other.transform.position=nextLevelPos.transform.position;
+            PlayerInventory.TotalSpotLight = 3;
         }
     }
 }

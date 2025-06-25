@@ -15,6 +15,7 @@ public class PlayerInventory : MonoBehaviour
 
     private void Awake(){
         Instance = this;
+        TotalSpotLight = 3;
     }
 
     public bool HasKey(string keyName){
