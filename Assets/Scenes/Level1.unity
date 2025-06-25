@@ -426,41 +426,13 @@ GameObject:
   - component: {fileID: 310625146}
   - component: {fileID: 310625145}
   - component: {fileID: 310625144}
-  - component: {fileID: 310625143}
-  - component: {fileID: 310625142}
   m_Layer: 0
   m_Name: Monster
-  m_TagString: Player
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &310625142
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 310625141}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b90c1b13627fa484fb950617a536fa2d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ItemCount: 0
---- !u!114 &310625143
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 310625141}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a21deaa72f0b398479c5f71065749781, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  moveSpeed: 10.02
 --- !u!212 &310625144
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4365,7 +4337,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8223616421309889143, guid: 3204491246bdd594a96ebcda888867a5, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8314465128418129123, guid: 3204491246bdd594a96ebcda888867a5, type: 3}
       propertyPath: m_RootOrder
