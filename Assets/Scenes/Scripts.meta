@@ -1,3 +1,4 @@
+<<<<<<<< HEAD:Assets/Scenes/Scripts.meta
 fileFormatVersion: 2
 guid: 71568d87f6dc1d84a8c7e7a00573966c
 folderAsset: yes
@@ -6,3 +7,13 @@ DefaultImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+========
+fileFormatVersion: 2
+guid: 44b6487d66985db4087b7dcf2b6c99ac
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>>> origin/main:Assets/Scenes/Scripts/SpotLight.meta

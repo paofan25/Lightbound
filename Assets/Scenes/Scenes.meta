@@ -1,3 +1,4 @@
+<<<<<<<< HEAD:Assets/Scenes/Scenes.meta
 fileFormatVersion: 2
 guid: e087c0f197a3d7b41917c8a9145872e2
 folderAsset: yes
@@ -6,3 +7,13 @@ DefaultImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+========
+fileFormatVersion: 2
+guid: ea1384efb1241884a953e3b25d5f59c4
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>>> origin/main:Assets/Scenes/Scripts/Door.meta
