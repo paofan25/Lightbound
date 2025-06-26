@@ -1,42 +1,65 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
-[RequireComponent(typeof(Rigidbody2D))]
 public class PlayerController : MonoBehaviour
 {
-    [Header("移动参数")] [SerializeField] float moveSpeed = 5f;
+    [SerializeField] private float moveSpeed = 3.0f;
 
-    [Header("跳跃参数")] [SerializeField] float jumpForce = 6f;
+    float horizontalInput;
+    
+    float verticalInput;
 
-    Rigidbody2D rb;
+    Rigidbody2D rigid;
 
-    bool isGrounded;
+    Animator animator;
 
-    void Awake(){
-        rb = GetComponent<Rigidbody2D>();
-    }
-
-    void Update() // 处理输入
+    Vector2 faceDirect = new Vector2(0, -1);  //Ĭ������
+    private void Awake()
     {
-        // ① 水平移动：使用 Unity 内置输入轴，可在 Input Manager 里映射 A/D、←/→、手柄左摇杆
-        float move = Input.GetAxisRaw("Horizontal"); // 取值 -1,0,1
-        rb.velocity = new Vector2(move * moveSpeed, rb.velocity.y);
+        rigid = GetComponent<Rigidbody2D>();
+        if (null == rigid) Debug.LogError("Get rigidbody2d component failed!");
 
-        // ② 跳跃
-        if (Input.GetButtonDown("Jump") && isGrounded) // 默认把 Space 映射到 Jump
+        animator = GetComponentInChildren<Animator>();
+        if(null == animator) Debug.LogError("Get animator component failed!");
+    }
+
+    private void Update()
+    {
+        GetPlayerInput();
+        AnimatorController();
+    }
+
+    private void FixedUpdate()
+    {
+        PlayerMovement();
+    }
+
+    void GetPlayerInput()
+    {
+        horizontalInput = Input.GetAxisRaw("Horizontal");
+        verticalInput = Input.GetAxisRaw("Vertical");
+
+        if (verticalInput != 0)
         {
-            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-            isGrounded = false; // 直到再次碰撞地面
+            horizontalInput = 0;
+            faceDirect = new Vector2(0, verticalInput);
+        }
+        else
+        {
+            verticalInput = 0;
+            faceDirect = new Vector2(horizontalInput, 0);
         }
     }
 
-    // ③ 落地判定：只要任何接触点的法线朝上即可
-    void OnCollisionEnter2D(Collision2D collision){
-        foreach (var c in collision.contacts) {
-            if (c.normal.y > 0.5f) {
-                // 角度阈值≈60°
-                isGrounded = true;
-                break;
-            }
-        }
+    void PlayerMovement()
+    {
+        rigid.velocity = new Vector2(horizontalInput * moveSpeed, verticalInput * moveSpeed);
+    }
+
+    void AnimatorController()
+    {
+        animator.SetInteger("horizontal", (int)faceDirect.x);
+        animator.SetInteger("vertical", (int)faceDirect.y);
     }
 }
