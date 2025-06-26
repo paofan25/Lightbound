@@ -18,7 +18,13 @@ public class Flashlightt : MonoBehaviour
 
     Collider2D playerCollider;
 
-    
+    public bool ifOpenOnLoad = false;
+
+    public void OnEnable(){
+        if (ifOpenOnLoad) {
+            StartLifetimeCountdown();
+        }
+    }
 
     void OnTriggerEnter2D(Collider2D other){
         if (other.CompareTag("Player")) {
@@ -98,7 +104,8 @@ public class Flashlightt : MonoBehaviour
         Debug.Log("⏳ 手电筒已熄灭");
         if (lightComponent != null)
             // lightComponent.enabled = false;
-            Destroy(gameObject);
+            // Destroy(gameObject);
+            gameObject.SetActive(false);
         // 也可以：gameObject.SetActive(false);
     }
 
