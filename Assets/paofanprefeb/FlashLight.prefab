@@ -48,6 +48,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lifetime: 15
+  ifOpenOnLoad: 0
 --- !u!114 &1021796933239480174
 MonoBehaviour:
   m_ObjectHideFlags: 0
