@@ -196,10 +196,10 @@ public class FlashlightPlacer : MonoBehaviour
         }
 
         if (shortest != null) {
-            shortestFlashlightText.text = $"🕒 最短寿命：{minTime:F1} 秒";
+            shortestFlashlightText.text = $"最短寿命：{minTime:F1} 秒";
         }
         else {
-            shortestFlashlightText.text = "🕒 当前无激活手电筒";
+            shortestFlashlightText.text = "当前无激活手电筒";
         }
     }
     public void ReceiveFlashlightBack(GameObject flashlight, float remaining){

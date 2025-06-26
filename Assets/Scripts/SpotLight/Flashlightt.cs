@@ -32,7 +32,7 @@ public class Flashlightt : MonoBehaviour
             Debug.Log("🎒 手电筒被玩家捡起");
 
             float elapsed = Time.time - countdownStartTime;
-            remainingTime -= elapsed;
+            remainingTime = Mathf.Max(0f, remainingTime - elapsed); // ✅ 确保暂停时间正确记录
             CancelInvoke("TurnOff");
             isLit = false;
 
@@ -43,8 +43,14 @@ public class Flashlightt : MonoBehaviour
     }
 
     public float GetRemainingTime(){
-        if (!isLit) return remainingTime;
-        return remainingTime - (Time.time - countdownStartTime);
+        if (!isLit) {
+            // 🔁 手电筒处于未放置（如拖动、回收）状态，返回暂停时保存的剩余时间
+            return remainingTime;
+        }
+        else {
+            // ✅ 手电筒已点亮，实时更新剩余时间
+            return Mathf.Max(0f, remainingTime - (Time.time - countdownStartTime));
+        }
     }
     void OnTriggerExit2D(Collider2D other){
         if (other.CompareTag("Player")) {
